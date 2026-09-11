@@ -1,12 +1,12 @@
 {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gorecodecom/goregraph/releases/download/v1.4.0/goregraph_Windows_x86_64.zip",
+            "url": "https://github.com/gorecodecom/goregraph/releases/download/v1.4.1/goregraph_Windows_x86_64.zip",
             "bin": [
                 "goregraph.exe"
             ],
-            "hash": "a9c498277157b7fcc7b3f9f47eec2ecb8ea61dc1f3091d258494cd4d6aecc676"
+            "hash": "6d51098874ead554246e057f61d6647a6e16bfb64ecc3f9fc7e79d663b466319"
         }
     },
     "homepage": "https://github.com/gorecodecom/goregraph",
